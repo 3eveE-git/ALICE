@@ -6,7 +6,9 @@ This is project created in collaboration with the IDeaS Center CMU, under the gu
 ALICE is an ML system that encapsulates NLP models (BERT and GPT3) to assess the accuracy parameters of statements input by the user. It was created to be a multiprong effort to combat misinforamtion in social media.
 
 Main Project Repos:
+
 Web Server:  https://github.com/prakhariitd/ALICE
+
 Plug In: https://github.com/xrma99/ALICE_plugin
 
 
