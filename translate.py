@@ -15,7 +15,7 @@ querystr = input('Please enter text to be translated: \n')
 parameters ={
     "q": querystr,
     "target" : "en",
-    "key" : "AIzaSyBHU_ic4FPPateUq8f7umlJ3lg1mb7FDFA"
+    "key" : ""   #Add API key
 }
 
 #Translating to English
