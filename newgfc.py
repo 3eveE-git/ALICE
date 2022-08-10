@@ -11,7 +11,7 @@ parameters = {
     "query": querystr,
     "languageCode": "eng",
     "maxAgeDays" :60,
-    "key" : "AIzaSyBHU_ic4FPPateUq8f7umlJ3lg1mb7FDFA"
+    "key" : ""  #Add API key
 }
 
 response = requests.get("https://factchecktools.googleapis.com/v1alpha1/claims:search?", params= parameters)
